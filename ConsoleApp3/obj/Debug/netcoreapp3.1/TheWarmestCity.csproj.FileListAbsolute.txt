@@ -1,0 +1,16 @@
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.exe
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.deps.json
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.runtimeconfig.json
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.runtimeconfig.dev.json
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.dll
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\TheWarmestCity.pdb
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\JsonToSql.dll
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.csprojAssemblyReference.cache
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.AssemblyInfo.cs
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.csproj.CopyComplete
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.dll
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.pdb
+C:\Users\joann\Desktop\lastVersion temperatur cit\city-temperature-main\ConsoleApp3\obj\Debug\netcoreapp3.1\TheWarmestCity.genruntimeconfig.cache
